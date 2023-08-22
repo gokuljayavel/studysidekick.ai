@@ -1,0 +1,2 @@
+# studysidekick.ai
+ Princeton Hackathon
