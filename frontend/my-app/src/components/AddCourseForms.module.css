@@ -1,0 +1,12 @@
+.block {
+  width: 50%;
+  margin: auto;
+}
+
+.margin {
+  margin-top: 5%;
+}
+
+span {
+  margin-top: 10px;
+}
